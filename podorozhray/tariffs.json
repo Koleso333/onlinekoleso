@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "updated": "2026-01-01",
+  "currency": "RUB",
+  "items": [
+    { "id": "metro", "label": "Метро", "price": 50 },
+    { "id": "ground", "label": "Автобус / троллейбус / трамвай", "price": 50 },
+    { "id": "suburb", "label": "Пригород", "price": 50 }
+  ]
+}
