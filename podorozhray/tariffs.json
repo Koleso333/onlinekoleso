@@ -6,17 +6,17 @@
     {
       "id": "metro",
       "label": "Метро",
-      "price": 65
+      "price": 50
     },
     {
       "id": "ground",
       "label": "Автобус / троллейбус / трамвай",
-      "price": 60
+      "price": 40
     },
     {
       "id": "suburb",
       "label": "Пригород",
-      "price": 50
+      "price": 40
     }
   ]
 }
