@@ -1,10 +1,22 @@
 {
   "version": 1,
-  "updated": "2026-01-01",
+  "updated": "2026-05-23",
   "currency": "RUB",
   "items": [
-    { "id": "metro", "label": "Метро", "price": 50 },
-    { "id": "ground", "label": "Автобус / троллейбус / трамвай", "price": 50 },
-    { "id": "suburb", "label": "Пригород", "price": 50 }
+    {
+      "id": "metro",
+      "label": "Метро",
+      "price": 65
+    },
+    {
+      "id": "ground",
+      "label": "Автобус / троллейбус / трамвай",
+      "price": 60
+    },
+    {
+      "id": "suburb",
+      "label": "Пригород",
+      "price": 50
+    }
   ]
 }
